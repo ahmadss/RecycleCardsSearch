@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleCardsSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search....</string>
+</resources>
